@@ -29,7 +29,7 @@ public class Main {
         
         //Le pedimos al usuario que ingrese la altura por la términal.
         System.out.println("Ingrese la altura del edificio: ");
-        float alturaInicial=scanner.nextInt();
+        float alturaInicial=scanner.nextFloat();
         
         
         
